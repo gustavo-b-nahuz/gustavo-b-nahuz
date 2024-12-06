@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3> :man: &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Computer Science student at <a href="https://www.ufes.br/">UFES</a>.
-- 💼 &nbsp; Development intern at Lume Robotics.
+- 💼 &nbsp; Software developer at Lume Robotics.
 - 🌱 &nbsp; Working and learning with backend and frontend with Node.js, React and Python.
 
 <h3> :rocket: &nbsp;My Development Stack </h3>
